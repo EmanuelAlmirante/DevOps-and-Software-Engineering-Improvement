@@ -12,7 +12,7 @@ Add anything you feel is relevant to this repository.
 
 Maintain the formatting.
 
-When adding a tecnhologie, please try to add the documentation of that tecnhology, a YouTube tutorial, and a book of that tecnhology.
+When adding a tecnhology, please try to add the documentation of that tecnhology, a YouTube tutorial, and a book of that tecnhology.
 
 This README is still a work in progress, some things might not be complete, but will be in a near future.
 
