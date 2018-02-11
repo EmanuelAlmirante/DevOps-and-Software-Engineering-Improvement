@@ -1,8 +1,8 @@
 # DevOps and Software Engineering Improvement
 
-This repository has the objective to aggretate material about DevOps and Software development in order to help readers to improve these skills and discover new technologies. 
+This repository has the objective to aggretate material about DevOps and Software development in order to help readers to improve these skills and discover new technologies. This repository is not intended to have a project, only to serve as an introduction to tecnhologies used in IT companies. 
 
-Anyone can contribute with material and add links of your repositories/projects. 
+Anyone can contribute with material and add links of your repositories/projects.  
 
 ## Getting Started
 
