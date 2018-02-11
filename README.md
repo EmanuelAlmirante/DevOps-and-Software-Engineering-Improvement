@@ -14,6 +14,8 @@ Maintain the formatting.
 
 When adding a tecnhology, please try to add the documentation of that tecnhology, a YouTube tutorial, and a book of that tecnhology.
 
+In the section Algorithms, please every one that you know of, if it is not there. Include a link to the algorithm (Wikipedia page, for example) and a link to an example of it (this section is currently under construction).
+
 This README is still a work in progress, some things might not be complete, but will be in a near future.
 
 ## Motivation
@@ -109,6 +111,8 @@ In computing, Puppet is an open-source software configuration management tool. I
 - https://docs.puppet.com/
 - https://www.youtube.com/watch?v=6ncaJxhdgLY
 - https://www.amazon.com/Puppet-Beginners-Guide-John-Arundel/dp/1782161244
+
+## Algorithms
 
 ## Repositories/Projects Links
 
