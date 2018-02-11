@@ -20,6 +20,8 @@ This README is still a work in progress, some things might not be complete, but 
 
 ## Motivation
 
+**UNDER CONSTRUCTION**
+
 ## Technologies 
 
 ### Docker (https://www.docker.com/)
@@ -113,6 +115,8 @@ In computing, Puppet is an open-source software configuration management tool. I
 - https://www.amazon.com/Puppet-Beginners-Guide-John-Arundel/dp/1782161244
 
 ## Algorithms
+
+**UNDER CONSTRUCTION**
 
 ## Repositories/Projects Links
 
