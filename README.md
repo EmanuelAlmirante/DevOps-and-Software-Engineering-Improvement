@@ -119,4 +119,4 @@ In computing, Puppet is an open-source software configuration management tool. I
 **UNDER CONSTRUCTION**
 
 ## Repositories/Projects Links
-Some cheat sheets: https://afbernardino.github.io/cheatsheets/
+- Some cheat sheets: https://afbernardino.github.io/cheatsheets/
