@@ -168,7 +168,9 @@ Sorting orders a list of values and searching finds the position of a value with
 - Manacher’s algorithm: [Part 1](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/), [Part 2](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-2/), [Part 3](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-3-2/)
 
 [All Searching Algorithms](https://www.geeksforgeeks.org/category/searching/)
+
 [All Sorting Algorithms](https://www.geeksforgeeks.org/category/sorting/)
+
 [All Pattern Searching Algorithms](https://www.geeksforgeeks.org/category/pattern-searching/)
 
 ### Prime Numbers and Prime Factorization
