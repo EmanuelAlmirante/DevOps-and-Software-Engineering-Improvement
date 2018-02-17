@@ -20,7 +20,7 @@ This README is still a work in progress, some things might not be complete, but 
 
 ## Motivation
 
-**UNDER CONSTRUCTION**
+In my area of work I deal with a really high number of technologies, so this repository aggregates most of these technologies and also add new ones. This way it can help people that are starting to work with them or are just curious about them, while I can maintain contact with them and also with new ones, and try to become a better DevOps engineer.
 
 ## Technologies 
 
