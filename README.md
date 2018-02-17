@@ -116,7 +116,9 @@ In computing, Puppet is an open-source software configuration management tool. I
 
 ## Algorithms
 
-**UNDER CONSTRUCTION**
+### Graph Algorithms 
+
+- [Breadth First Search (BFS)](https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/)
 
 ## Repositories/Projects Links
 - Some cheat sheets: https://afbernardino.github.io/cheatsheets/
