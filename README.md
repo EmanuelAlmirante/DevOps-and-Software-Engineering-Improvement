@@ -14,9 +14,9 @@ Maintain the formatting.
 
 When adding a tecnhology, please try to add the documentation of that tecnhology, a YouTube tutorial, and a book of that tecnhology. If there is not a book, just repeat the link for the documentation.
 
-In the section Algorithms, please every one that you know of, if it is not there. Include a link to the algorithm (Wikipedia page, for example) and a link to an example of it (this section is currently under construction).
+In the section Algorithms, when inserting a new one, include a link to the algorithm (Wikipedia page, for example) and a link to an example of it (these links can be the same).
 
-This README is still a work in progress, some things might not be complete, but will be in a near future.
+This README is continuosly being update with material.
 
 ## Motivation
 
