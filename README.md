@@ -114,6 +114,60 @@ In computing, Puppet is an open-source software configuration management tool. I
 - https://www.youtube.com/watch?v=6ncaJxhdgLY
 - https://www.amazon.com/Puppet-Beginners-Guide-John-Arundel/dp/1782161244
 
+### Apache Maven (https://maven.apache.org/) 
+
+Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. 
+
+**Tutorials**
+- http://maven.apache.org/guides/
+- https://www.youtube.com/watch?v=al7bRZzz4oU
+- http://books.sonatype.com/mvnref-book/reference/
+
+### Apache Groovy (http://groovy-lang.org/)
+
+Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming. 
+
+**Tutorials**
+- http://groovy-lang.org/documentation.html
+- https://www.youtube.com/watch?v=B98jc8hdu9g
+- https://www.manning.com/books/groovy-in-action-second-edition
+
+### Sonatype Nexus (https://www.sonatype.com/nexus-repository-sonatype)
+
+Nexus is a repository manager. It allows you to proxy, collect, and manage your dependencies so that you are not constantly juggling a collection of JARs. It makes it easy to distribute your software. Internally, you configure your build to publish artifacts to Nexus and they then become available to other developers. You get the benefits of having your own 'central', and there is no easier way to collaborate.
+
+**Tutorials**
+- https://books.sonatype.com/nexus-book/index.html
+- https://www.youtube.com/watch?v=VBrEPBXuAVE
+- https://help.sonatype.com/display/NXRM3
+
+### Artifactory (https://jfrog.com/artifactory/)
+
+JFrog Artifactory is the only Universal Repository Manager supporting all major packaging formats, build tools and CI servers.
+
+**Tutorials**
+- https://www.jfrog.com/confluence/display/RTF/Welcome+to+Artifactory
+- https://www.youtube.com/watch?v=9bY7F3-haTY
+- https://www.jfrog.com/confluence/display/RTF/Welcome+to+Artifactory
+
+### Vagrant (https://www.vagrantup.com/)
+
+Vagrant provides the same, easy workflow regardless of your role as a developer, operator, or designer. It leverages a declarative configuration file which describes all your software requirements, packages, operating system configuration, users, and more. 
+
+**Tutorials**
+- https://www.vagrantup.com/docs/https://www.youtube.com/watch?v=ZGUEjZckijA
+- https://www.youtube.com/watch?v=ZGUEjZckijA
+- https://www.amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837
+
+### Sonarqube (https://www.sonarqube.org/)
+
+SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
+
+**Tutorials**
+- https://docs.sonarqube.org/display/SONAR/Documentation
+- https://docs.sonarqube.org/display/SONAR/Documentation
+- https://www.manning.com/books/sonarqube-in-action
+
 ## Algorithms
 
 An algorithm is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing and automated reasoning tasks. An algorithm is an effective method that can be expressed within a finite amount of space and time and in a well-defined formal language for calculating a function.
