@@ -1,6 +1,11 @@
-# Table of Contents
+# DevOps and Software Engineering Improvement
 
-- [DevOps and Software Engineering Improvement](https://github.com/EmanuelAlmirante/DevOps-and-Software-Engineering-Improvement#devops-and-software-engineering-improvement)
+This repository has the objective to aggretate material about DevOps and Software development in order to help readers to improve these skills and discover new technologies. This repository is not intended to have a project, only to serve as an introduction to tecnhologies used in IT companies. 
+
+Anyone can contribute with material and add links of your repositories/projects. 
+
+## Table of Contents
+
 - [Getting Started](https://github.com/EmanuelAlmirante/DevOps-and-Software-Engineering-Improvement#getting-started)
 - [Motivation](https://github.com/EmanuelAlmirante/DevOps-and-Software-Engineering-Improvement#motivation)
 - [Technologies](https://github.com/EmanuelAlmirante/DevOps-and-Software-Engineering-Improvement#technologies)
@@ -31,13 +36,6 @@
 	- [Data Structures](https://github.com/EmanuelAlmirante/DevOps-and-Software-Engineering-Improvement#data-structures)
 	- [Miscellaneous](https://github.com/EmanuelAlmirante/DevOps-and-Software-Engineering-Improvement#miscellaneous)
 - [Repositories/Projects Links](https://github.com/EmanuelAlmirante/DevOps-and-Software-Engineering-Improvement#repositoriesprojects-links)
-
-
-## DevOps and Software Engineering Improvement
-
-This repository has the objective to aggretate material about DevOps and Software development in order to help readers to improve these skills and discover new technologies. This repository is not intended to have a project, only to serve as an introduction to tecnhologies used in IT companies. 
-
-Anyone can contribute with material and add links of your repositories/projects.  
 
 ## Getting Started
 
