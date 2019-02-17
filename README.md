@@ -336,7 +336,7 @@ Other relevant algorithms.
 - [Counting Inversions using BIT](https://www.geeksforgeeks.org/count-inversions-array-set-3-using-bit/)
 - [Logarithmic exponentiation](https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/)
 - [Square root of an integer](https://www.geeksforgeeks.org/square-root-of-an-integer/)
-- Heavy light Decomposition : [Part 1](https://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/), [Part 2](http://e-maxx.ru/algo/heavy_light), [Part 3](https://blog.anudeep2011.com/heavy-light-decomposition/)
+- Heavy Light Decomposition : [Part 1](https://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/), [Part 2](http://e-maxx.ru/algo/heavy_light), [Part 3](https://blog.anudeep2011.com/heavy-light-decomposition/)
 - [Matrix Rank](https://www.geeksforgeeks.org/program-for-rank-of-matrix/)
 - [Gaussian Elimination to Solve Linear Equations](https://www.geeksforgeeks.org/gaussian-elimination/)
 - [Hungarian algorithm](https://en.wikipedia.org/wiki/Hungarian_algorithm)
